@@ -34,7 +34,7 @@ This repository contains a CatBoost model and a prediction pipeline designed to 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/your-catboost-project.git
+   git clone https://github.com/manjil-budhathoki/Loan-Approval-Prediction-TRaining.git
    cd your-catboost-project
    ```
 
